@@ -1,0 +1,11 @@
+
+http://bingeboy.github.io/archive.html
+http://bingeboy.github.io/atom.xml
+http://bingeboy.github.io/categories.html
+http://bingeboy.github.io/index.html
+http://bingeboy.github.io/pages.html
+http://bingeboy.github.io/rss.xml
+http://bingeboy.github.io/sitemap.txt
+http://bingeboy.github.io/tags.html
+
+http://bingeboy.github.io/lessons/2011/12/29/jekyll-introduction
